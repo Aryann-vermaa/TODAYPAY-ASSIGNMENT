@@ -10,12 +10,6 @@ A beautiful, modern quiz application built with React, featuring a stunning glas
 - **Smooth Animations**: Fade-in, slide-up, and bounce animations for enhanced UX
 - **Responsive Design**: Fully responsive across all device sizes
 
-### 🌓 Theme System
-- **Light/Dark Mode**: Toggle between light and dark themes
-- **System Preference Detection**: Automatically detects user's system theme preference
-- **Persistent Storage**: Remembers user's theme choice across sessions
-- **Smooth Transitions**: Elegant theme switching with smooth color transitions
-
 ### 🚀 Enhanced User Experience
 - **Interactive Elements**: Hover effects, scale animations, and smooth transitions
 - **Progress Tracking**: Visual progress bars and score displays
@@ -80,8 +74,7 @@ npm run build
 
 ## 🌟 Key Components
 
-### ThemeToggle
-Floating theme switcher with animated sun/moon icons
+
 
 ### StartScreen
 Welcome screen with difficulty selection and high score display
